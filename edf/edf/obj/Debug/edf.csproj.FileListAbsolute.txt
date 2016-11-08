@@ -1,0 +1,8 @@
+c:\users\linli7\documents\visual studio 2013\Projects\edf\edf\bin\Debug\edf.exe.config
+c:\users\linli7\documents\visual studio 2013\Projects\edf\edf\bin\Debug\edf.exe
+c:\users\linli7\documents\visual studio 2013\Projects\edf\edf\bin\Debug\edf.pdb
+c:\users\linli7\documents\visual studio 2013\Projects\edf\edf\obj\Debug\edf.csprojResolveAssemblyReference.cache
+c:\users\linli7\documents\visual studio 2013\Projects\edf\edf\obj\Debug\edf.Properties.Resources.resources
+c:\users\linli7\documents\visual studio 2013\Projects\edf\edf\obj\Debug\edf.csproj.GenerateResource.Cache
+c:\users\linli7\documents\visual studio 2013\Projects\edf\edf\obj\Debug\edf.exe
+c:\users\linli7\documents\visual studio 2013\Projects\edf\edf\obj\Debug\edf.pdb
